@@ -1,0 +1,38 @@
+﻿  maindll.cpp
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(46): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(47): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(50): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(52): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(54): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(248): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(425): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(428): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(449): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(451): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(453): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(455): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(465): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(475): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(476): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(592): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(593): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(594): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(595): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(596): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(597): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(617): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(618): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(619): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(620): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(621): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(622): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(642): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(649): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(650): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(655): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\temp\sources_vs2017\ru_warface_64\siluet\siluet\maths.h(662): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  All 40 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  siluet.vcxproj -> C:\Temp\Sources_vs2017\RU_Warface_64\Siluet\siluet\x64\Release\d3dref9.dll
